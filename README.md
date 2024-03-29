@@ -14,11 +14,7 @@ Set the address where you want to store the data in
 result_df.to_csv(r'./result/'+stock+'xueqiu.csv')
 ```
 
-To change the target stock pool, please change the
-
-```text
-file 000300pool.xlsx
-```
+To change the target stock pool, please change the [000300pool.xlsx](./000300pool.xlsx)
 
 Then
 
