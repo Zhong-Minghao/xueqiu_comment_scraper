@@ -6,6 +6,11 @@ This is the scraper of xueqiu(雪球) comment under stock in Chinese stock marke
 
 ## Usage
 
+Install the required dependencies using:
+```bash
+pip install -r requirements.txt
+```
+
 To set the local proxy, please refer to the project [ProxyPool](https://github.com/Python3WebSpider/ProxyPool?tab=readme-ov-file)
 
 Set the address where you want to store the data
